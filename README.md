@@ -49,4 +49,4 @@ In the .env file replace the gemini api key with your api key
 Download the dataset from Kaggle – Brazilian E-Commerce by Olist and place all CSV files inside the /data directory
 Run the application: streamlit run app.py
 
-
+In the future, I plan to add Retrieval-Augmented Generation so the agent can reference product descriptions and reviews, integrate forecasting models for sales trends, and deploy the system on Streamlit Cloud.
